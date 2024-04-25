@@ -1,3 +1,3 @@
-import './components/App/App.css'
+import './App.css'
 
 
