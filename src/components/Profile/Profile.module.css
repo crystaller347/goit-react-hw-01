@@ -42,6 +42,7 @@
   display: flex;
   background-color: #d3d3d3;
   margin-top: 0;
+  border-radius: 5px;
 }
 
 .listItem {
